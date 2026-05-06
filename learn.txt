@@ -1,0 +1,17 @@
+                                      ===: Roadmap :===
+
+                                       =: Core react :=
+                                          
+                                          -JSX, State
+                                          -component reusability
+                                          -reuse of component (with props)
+                                          -propogate changes (using hooks)
+
+                                      =: Additional addon :=
+                                         -routing (with tankstack router)
+                                         -state management (with redux, redux toolkit, zustand, context API)
+                                         -class based component
+                                         -BAAS app(appwrite, firebase, superbase)
+                                              social media clone ...
+                                         - complete solution with (NextJS, Gatsby, Remix ...)
+                                           
